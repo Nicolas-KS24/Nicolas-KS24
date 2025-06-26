@@ -1,4 +1,4 @@
-# Olá! Eu sou o Nicolas Silva
+# Olá! Eu sou o Nicolas Kauê
 
 🎓 Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí/SP  
 💻 Desenvolvedor Web & Mobile em formação  
