@@ -54,7 +54,7 @@ Aplicação voltada à consulta de dados acadêmicos da Fatec Jacareí, desenvol
 
 - 📧 Email: nick24kaue@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nicolas-silva-devcode) 
-- 🖥️ GitHub: [@N1CKK4U3](https://github.com/N1CKK4U3)
+- 🖥️ GitHub: [@N1CKK4U3](https://github.com/Nicolas-KS24)
 - 📞 Telefone: (12) 99777-4880
 
 ---
