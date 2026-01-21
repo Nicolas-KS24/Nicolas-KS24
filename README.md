@@ -44,7 +44,7 @@ Sistema voltado à organização, análise e visualização de **dados ambientai
 
 **Tecnologias:** React · Tailwind CSS · TypeScript · Node.js · Express · PostgreSQL (extensões geoespaciais) · Docker · Chart.js · Mapbox · SCRUM
 
-🔗 [**Conheça o repositório:**](https://github.com/Helloworld-fatec/abp-dados-limnologicos)
+🔗 [**Conheça o repositório**](https://github.com/Helloworld-fatec/abp-dados-limnologicos)
 
 ---
 
@@ -67,7 +67,7 @@ Aplicação desenvolvida para consulta de informações acadêmicas da Fatec Jac
 
 **Tecnologias:** HTML · CSS · JavaScript · Node.js · PostgreSQL · Figma · SCRUM
 
-🔗 [**Conheça o repositório:**](https://github.com/techcastlefatec/horarios-fatec)
+🔗 [**Conheça o repositório**](https://github.com/techcastlefatec/horarios-fatec)
 
 ---
 
