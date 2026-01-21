@@ -1,8 +1,8 @@
-# Olá! Eu sou o Nicolas Kauê
+# Olá! Eu sou o Nicolas Kauê 👋
 
-🎓 Estudante de Desenvolvimento de Software Multiplataforma na Fatec Jacareí/SP  
-💻 Desenvolvedor Web & Mobile em formação  
-🔍 Em busca de oportunidades de estágio ou projetos como freelancer para aplicar na prática os conhecimentos que venho desenvolvendo.
+🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec Jacareí/SP  
+📊 Aspirante a **Profissional de Dados**, com foco em **Back-end e bancos de dados relacionais**  
+💻 Busco **estágio em TI**, especialmente em contextos que envolvam dados, sistemas e aprendizado contínuo
 
 ---
 
@@ -14,69 +14,78 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-0D1117?style=for-the-badge&logoColor=white)
 
 ---
 
-## 💻 Projetos Acadêmicos
+## 💻 Projetos Acadêmicos Relevantes
 
-### 🌊 Foco Atual: Aplicação Web para Visualização e Disseminação de Dados Limnológicos
-**Status:** Em Andamento (Sprint 1)
-**Equipe:** Projeto colaborativo de semestre.
-
-Este é o meu projeto de semestre atual, desenvolvido em parceria com **Furnas Centrais Elétricas S.A.** e instituições de pesquisa como **INPE**, **UFRJ**, **UFJF** e **IIE**. O objetivo é criar uma plataforma robusta para organizar, visualizar e disseminar dados ambientais críticos (**limnológicos e meteorológicos**) coletados em reservatórios.
-
-A complexidade do projeto reside na integração de dois tipos de dados (campanhas de coleta manual e monitoração em tempo real via SIMA), suportando análises científicas e contribuindo diretamente para estudos sobre o Balanço de Carbono.
-
-**Minha Contribuição:**
-Atuo como desenvolvedor **Back-end** neste projeto. Meu foco principal nesta fase de *Sprint 1* é a arquitetura da API. As responsabilidades que estou liderando e implementando incluem:
-* Configurar a base do **Node.js** com **TypeScript** e **Express**.
-* Modelar a estrutura **MVC** (Controllers, Services, Routes).
-* Criar os *endpoints* iniciais para consulta das tabelas existentes.
-* Implementar *middlewares* de erros e logs básicos, garantindo a solidez da aplicação.
-
-**Tecnologias-Chave:** **React + TypeScript** (Front-end) · **Node.js + TypeScript + Express** (Back-end) · **PostgreSQL** (com extensão geoespacial) · **Docker** · Metodologia **SCRUM**.
-
-🔗 **[Acesse o repositório completo para detalhes e Sprints](https://github.com/Helloworld-fatec/abp-dados-limnologicos)**
+> **Observação:** Os projetos abaixo foram desenvolvidos em **contexto acadêmico**, em equipes multidisciplinares.  
+> Os repositórios estão vinculados a **organizações e contas institucionais da Fatec**, onde atuo como colaborador. Segue perfil acadêmico usado por mim:
+> [**nickdsm24**](https://github.com/nickdsm24)
 
 ---
 
-### 🗓️ Concluído: Sistema Acadêmico — Web e Mobile
+### 🌊 Aplicação Web para Visualização e Disseminação de Dados Limnológicos  
+**Status:** Concluído  
+**Contexto:** Projeto semestral em parceria com **Furnas**, **INPE**, **UFRJ**, **UFJF** e **IIE**
 
-Aplicação voltada à consulta de dados acadêmicos da Fatec Jacareí, desenvolvida em equipe com foco em **acessibilidade e experiência do usuário**. Este projeto serviu como um marco importante no meu desenvolvimento em aplicações Full Stack.
+Sistema voltado à organização, análise e visualização de **dados ambientais e científicos** (limnológicos e meteorológicos), incluindo séries históricas e dados de monitoramento em tempo real. A aplicação permite o acesso público e científico a bases de dados armazenadas há quase duas décadas, apoiando estudos ambientais e análises relacionadas ao **Balanço de Carbono**.
 
-**Funcionalidades-Destaque:**
-- Visualização por curso, semestre e disciplina (com horários, professores e salas).
-- **Mapa interativo** com a grade horária diária dos laboratórios.
-- Área administrativa para a secretaria com login seguro.
+**Minha atuação:**
+- Desenvolvimento **Back-end** com **Node.js + TypeScript + Express**
+- Criação de rotas da API
+- Apoio ao desenvolvimento de páginas front-end (com destaque para mapas interativos)
+- Correção de bugs ao longo das sprints
+- Apoio à documentação técnica (testes e UML de sequência)
 
-**Tecnologias:** HTML · CSS · **JavaScript** · **Node.js** · **PostgreSQL** · Figma.
+**Tecnologias:** React · Tailwind CSS · TypeScript · Node.js · Express · PostgreSQL (extensões geoespaciais) · Docker · Chart.js · Mapbox · SCRUM
 
-🔗 [Acesse o repositório do projeto](https://github.com/techcastlefatec/horarios-fatec) | 🔗 [Confira o sistema](https://horarios-fatec-7vwv.onrender.com/)
+🔗 [**Conheça o repositório:**](https://github.com/Helloworld-fatec/abp-dados-limnologicos)
 
 ---
 
-## Habilidades Interpessoais
+### 🗓️ Sistema Acadêmico — Web
+🏆 **Primeiro lugar da turma - 1º semestre de DSM (2025.1)**  
+**Status:** Concluído
 
-- Boa comunicação  
-- Escuta ativa  
-- Trabalho em equipe  
-- Organização  
-- Discernimento e responsabilidade  
-- Curiosidade e aprendizado constante  
+Aplicação desenvolvida para consulta de informações acadêmicas da Fatec Jacareí, com foco em **organização de dados, acessibilidade e experiência do usuário**.
+
+**Principais funcionalidades:**
+- Consulta por curso, semestre e disciplina
+- Visualização de horários, professores e salas
+- Mapa interativo com a grade horária dos laboratórios
+- Área administrativa com autenticação
+
+**Minha atuação:**
+- Modelagem do **banco de dados relacional**
+- Desenvolvimento de páginas front-end
+- Correção e refinamento de bugs
+
+**Tecnologias:** HTML · CSS · JavaScript · Node.js · PostgreSQL · Figma · SCRUM
+
+🔗 [**Conheça o repositório:**](https://github.com/techcastlefatec/horarios-fatec)
+
+---
+
+## 🌱 Em desenvolvimento
+
+Atualmente aprofundando estudos em:
+- **Python** para análise e manipulação de dados
+- Modelagem e consultas avançadas em **SQL**
+- Boas práticas de arquitetura e documentação de sistemas
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: nick24kaue@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nicolas-silva-devcode) 
-- 🖥️ GitHub: [@Nicolas-KS24](https://github.com/Nicolas-KS24)
-- 📞 Telefone: (12) 99777-4880
+- 📧 Email: nick24kaue@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/nicolas-silva-devcode  
+- 🖥️ GitHub: https://github.com/Nicolas-KS24  
 
 ---
 
-📝 *Este portfólio é atualizado conforme avanço nos estudos e projetos.*
+📝 *Este perfil é atualizado conforme a evolução acadêmica e técnica.*
