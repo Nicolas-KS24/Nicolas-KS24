@@ -82,6 +82,7 @@ Atualmente aprofundando estudos em:
 
 ## 📫 Contato
 
+- 🌐 Portfólio: https://nicolas-ks24.github.io/Portfolio/
 - 📧 Email: nick24kaue@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/nicolas-silva-devcode  
 - 🖥️ GitHub: https://github.com/Nicolas-KS24  
