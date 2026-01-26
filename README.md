@@ -1,7 +1,7 @@
 # Olá! Eu sou o Nicolas Kauê 👋
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na Fatec Jacareí/SP  
-📊 Aspirante a **Profissional de Dados**, com foco em **Back-end e bancos de dados relacionais**  
+📊 Aspirante a **Profissional de Dados**, com foco em **Back-end e bancos de dados**  
 💻 Busco **estágio em TI**, especialmente em contextos que envolvam dados, sistemas e aprendizado contínuo
 
 ---
