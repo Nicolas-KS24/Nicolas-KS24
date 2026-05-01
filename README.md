@@ -29,13 +29,8 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolas-KS24&theme=radical)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-KS24&show_icons=true&theme=radical&hide_border=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-KS24&layout=compact&theme=radical&hide_border=true" />
-
-</div>
 
 ---
 
@@ -48,7 +43,7 @@
 ## 📫 Contato
 
 - 📧 Email: nick24kaue@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/nicolas-silva-devcode  
+- 🔗 LinkedIn: https://www.linkedin.com/in/nicolas-k-silva 
 - 🖥️ GitHub: https://github.com/Nicolas-KS24  
 
 ---
