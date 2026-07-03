@@ -29,8 +29,10 @@
 
 ## 📊 Estatísticas
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolas-KS24&theme=radical)
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicolas-KS24&theme=radical" width="25%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolas-KS24&theme=radical" width="55%"/>
+</p>
 
 ---
 
