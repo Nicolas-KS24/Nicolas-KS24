@@ -46,7 +46,7 @@
 
 - 📧 Email: nick24kaue@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/nicolas-k-silva 
-- 🖥️ GitHub: https://github.com/Nicolas-KS24  
+- 🖥️ GitHub Acadêmico: https://github.com/nickdsm24
 
 ---
 
