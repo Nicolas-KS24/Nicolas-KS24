@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
 
 ### 💻 Linguagens
 
@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
 
 ### ⚙️ Back-end
 
@@ -31,7 +31,7 @@
   </tr>
 
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
 
 ### 🗄️ Banco de Dados
 
@@ -40,7 +40,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" align="center">
 
 ### 🎨 Front-end
 
@@ -69,7 +69,7 @@
 
 <p align="center">
   <img src="https://github-stats-extended-frontend-rho-rouge.vercel.app/api/top-langs?username=Nicolas-KS24&layout=compact&theme=radical" height="200"/>
-  <img src="https://github-stats-extended-frontend-rho-rouge.vercel.app/api?username=Nicolas-KS24&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-stats-extended-frontend-rho-rouge.vercel.app/api?username=Nicolas-KS24&show_icons=true&theme=radical" height="165"/>
 </p>
 
 ---
