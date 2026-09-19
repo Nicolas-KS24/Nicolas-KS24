@@ -2,9 +2,7 @@
 
 🎓 Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Jacareí/SP**  
 💼 **Estagiário de Desenvolvimento** na **Prefeitura de São José dos Campos**  
-📊 Focado em **Back-end e Dados**, com sólida atuação prática em **Front-end moderno (React & TypeScript)**  
-
----
+💻 **Desenvolvedor Full-stack** apaixonado por construir soluções de ponta a ponta — do Front-end moderno (React & TypeScript) ao Back-end e Bancos de Dados (Node.js, Python, SQL)
 
 ## 💼 Experiência Atual
 
