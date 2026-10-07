@@ -91,7 +91,7 @@
 
 ## 📫 Contato
 
-- 📧 Email: [nick24kaue@gmail.com](mailto:nick24kaue@gmail.com)  
+- 📧 Email: [nick24ks@gmail.com](mailto:nick24ks@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/nicolas-k-silva](https://www.linkedin.com/in/nicolas-k-silva)  
 - 🖥️ GitHub Acadêmico (Fatec): [@nickdsm24](https://github.com/nickdsm24)
 
